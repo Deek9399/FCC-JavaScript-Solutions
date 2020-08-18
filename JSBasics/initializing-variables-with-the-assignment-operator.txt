@@ -1,0 +1,2 @@
+var a = 9;
+//Define a variable a with var and initialize it to a value of 9

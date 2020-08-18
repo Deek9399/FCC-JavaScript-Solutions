@@ -1,0 +1,4 @@
+// a single line comment
+
+/* This one is a multiline comment.
+Happy learning javascript. */
